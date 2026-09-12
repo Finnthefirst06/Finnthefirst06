@@ -1,6 +1,6 @@
 # CoreScope quick help
 
-For CoreScope 7.9.5. Hardware support depends on the device, its driver and how it is connected.
+For CoreScope 7.9.6. Hardware support depends on the device, its driver and how it is connected.
 
 ## A temperature shows a dash
 

@@ -14,7 +14,7 @@ My focus: readable interfaces, useful diagnostics, and customization that stays 
 
 ![CoreScope system overview with illustrative demo readings](corescope-overview.png)
 
-*Actual CoreScope 7.9.5 interface rendered with synthetic demo readings. These are not live measurements or benchmarks.*
+*Actual CoreScope 7.9.6 interface rendered with synthetic demo readings. These are not live measurements or benchmarks.*
 
 | Monitor | Explore | Personalize |
 | :--- | :--- | :--- |
