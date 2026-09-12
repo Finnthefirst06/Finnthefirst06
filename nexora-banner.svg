@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+ <title id="title">Nexora</title><desc id="desc">Thoughtful tools for your PC. Dark navy banner with turquoise and blue circuit lines.</desc>
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c121e"/><stop offset="1" stop-color="#162637"/></linearGradient><linearGradient id="accent"><stop stop-color="#45e6c4"/><stop offset="1" stop-color="#59b4ff"/></linearGradient></defs>
+ <rect width="1280" height="280" rx="24" fill="url(#bg)"/>
+ <g stroke="#2a374b" fill="none" opacity=".8"><path d="M830 0v280M910 0v280M990 0v280M1070 0v280M1150 0v280M1230 0v280M790 60h490M790 140h490M790 220h490"/></g>
+ <rect x="58" y="57" width="38" height="5" rx="2.5" fill="#45e6c4"/>
+ <text x="56" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#eff4fc">Nexora</text>
+ <text x="59" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#9bacc4">Thoughtful tools for your PC.</text>
+ <g fill="none" stroke="url(#accent)" stroke-width="3"><path d="M808 168h62l28-42 31 80 32-107 31 69h89l37-39h84"/><rect x="1052" y="46" width="73" height="73" rx="15"/><path d="M1068 46V30m19 16V30m20 16V30m-39 89v16m19-16v16m20-16v16m-55-73h-16m16 20h-16m16 19h-16m89-39h16m-16 20h16m-16 19h16"/></g>
+ <rect x="1070" y="64" width="37" height="37" rx="6" fill="#45e6c4" opacity=".16"/><circle cx="1202" cy="129" r="5" fill="#59b4ff"/>
+</svg>
