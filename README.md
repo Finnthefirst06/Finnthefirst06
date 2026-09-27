@@ -4,17 +4,17 @@
 
 ![Nexora — thoughtful tools for your PC](nexora-banner.svg)
 
-I’m building **CoreScope**, a Windows app for understanding your hardware and making your setup your own.
+I’m building **Veymetra**, a Windows app for understanding your hardware and making your setup your own.
 
 My focus: readable interfaces, useful diagnostics, and customization that stays out of your way.
 
-### CoreScope
+### Veymetra
 
 **Understand your hardware. Follow its story. Make it yours.**
 
-![CoreScope system overview with illustrative demo readings](corescope-overview.png)
+![Veymetra system overview with illustrative demo readings](corescope-overview.png)
 
-*Actual CoreScope 7.9.6 interface rendered with synthetic demo readings. These are not live measurements or benchmarks.*
+*Earlier 7.9.6 interface, released under the former name CoreScope, rendered with synthetic demo readings. These are not live measurements or benchmarks.*
 
 | Monitor | Explore | Personalize |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ My focus: readable interfaces, useful diagnostics, and customization that stays 
 
 Compare selected sensors with the same unit, switch time ranges, and toggle reading guides.
 
-![CoreScope sensor comparison with synthetic data](corescope-graphs.png)
+![Veymetra sensor comparison with synthetic data](corescope-graphs.png)
 
 </details>
 
@@ -34,13 +34,13 @@ Compare selected sensors with the same unit, switch time ranges, and toggle read
 
 Build a color palette, save favorites and arrange supported devices into groups. RGB support depends on OpenRGB compatibility, device modes and wiring.
 
-![CoreScope lighting editor in demo mode, with no connected devices](corescope-lighting.png)
+![Veymetra lighting editor in demo mode, with no connected devices](corescope-lighting.png)
 
 </details>
 
 **Windows · English / Deutsch / Español / Français / Italiano / Português**
 
-CoreScope is in active development. Source code and app downloads are private; downloads are available to invited testers. This public repository contains only the profile presentation, screenshots and a [quick help guide](HELP.md).
+Veymetra (formerly CoreScope) is in active development and currently in private pre-release. Source code and app downloads are private; downloads are available to invited testers. This public repository contains only the profile presentation, screenshots and a [quick help guide](HELP.md).
 
 ### What matters to me
 
