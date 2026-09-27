@@ -1,17 +1,17 @@
-# CoreScope quick help
+# Veymetra quick help
 
-For CoreScope 7.9.6. Hardware support depends on the device, its driver and how it is connected.
+Written for version 7.9.6, when Veymetra was still called CoreScope. Menu names can differ slightly in newer pre-releases. Hardware support depends on the device, its driver and how it is connected.
 
 ## A temperature shows a dash
 
-A dash means that a reading is unavailable, not zero degrees. Open **Settings → Updates & help → Set up PC** to review sensor access and the optional driver. If Windows asks for administrator approval, check that you launched your trusted CoreScope installation. A restart may be required after installing a driver.
+A dash means that a reading is unavailable, not zero degrees. Open **Settings → Updates & help → Set up PC** to review sensor access and the optional driver. If Windows asks for administrator approval, check that you launched your trusted Veymetra installation. A restart may be required after installing a driver.
 
 If antivirus blocks a component, keep protection enabled and record the exact detection name and filename for investigation. Do not download replacement drivers from random sites. Some systems do not expose all sensors even with the required permissions.
 
 ## RGB is missing or does not change
 
-1. Open **Lighting → Compatibility & help**, then check the device in OpenRGB. CoreScope cannot add hardware support that OpenRGB lacks.
-2. Connect to OpenRGB and select the actual device or header in CoreScope.
+1. Open **Lighting → Compatibility & help**, then check the device in OpenRGB. Veymetra cannot add hardware support that OpenRGB lacks.
+2. Connect to OpenRGB and select the actual device or header in Veymetra.
 3. If a header has no configured LEDs, use **LED setup** and enter the real LED count from the hardware documentation. Count LEDs, not fans; do not guess.
 4. Choose a color, then select **Apply**. Previewing alone does not change hardware.
 5. If another RGB application keeps overwriting the color, stop its lighting effect before retrying.
@@ -26,7 +26,7 @@ Open **Settings → Mini-overlay → Choose values**. Select one value or up to 
 
 ## Update access fails
 
-Downloads are private and require an invited account. Connect through **Settings → Updates & help**; complete sign-in only on the official **github.com** page in your browser. Never type a GitHub password into CoreScope or share the displayed authorization code.
+Downloads are private and require an invited account. Connect through **Settings → Updates & help**; complete sign-in only on the official **github.com** page in your browser. Never type a GitHub password into Veymetra or share the displayed authorization code.
 
 When the app is current, the install button is disabled. For an access error, verify the invited account and accepted invitation. For a network error, restore connectivity and retry. Do not bypass a signature or checksum failure.
 
